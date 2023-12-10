@@ -1,0 +1,5 @@
+asset1 = /home/rubesh/TB/v4/asset1.py
+asset2 = /home/rubesh/TB/v4/asset2.py
+asset3 = /home/rubesh/TB/v4/asset3.py
+asset4 = /home/rubesh/TB/v4/asset4.py
+asset5 = /home/rubesh/TB/v4/asset5.py
