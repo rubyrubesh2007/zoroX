@@ -1,0 +1,4 @@
+run the zorox.sh by
+$ chmod 700 zorox.sh
+$ ./zorox.sh
+
